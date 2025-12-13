@@ -1,0 +1,234 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.7",
+  "Category": "Samples",
+  "Description": "",
+  "Modules": [
+    {
+      "Name": "Adventure",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "AdventureEditor",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "ModelingToolsEditorMode",
+      "Enabled": true
+    },
+    {
+      "Name": "AnimationWarping",
+      "Enabled": true
+    },
+    {
+      "Name": "RigLogic",
+      "Enabled": true
+    },
+    {
+      "Name": "LiveLink",
+      "Enabled": false
+    },
+    {
+      "Name": "LiveLinkControlRig",
+      "Enabled": false
+    },
+    {
+      "Name": "PoseSearch",
+      "Enabled": true
+    },
+    {
+      "Name": "AnimationLocomotionLibrary",
+      "Enabled": true
+    },
+    {
+      "Name": "MotionWarping",
+      "Enabled": true
+    },
+    {
+      "Name": "HairStrands",
+      "Enabled": true
+    },
+    {
+      "Name": "Chooser",
+      "Enabled": true
+    },
+    {
+      "Name": "Mover",
+      "Enabled": true
+    },
+    {
+      "Name": "NetworkPrediction",
+      "Enabled": true
+    },
+    {
+      "Name": "DrawDebugLibrary",
+      "Enabled": true
+    },
+    {
+      "Name": "SmartObjects",
+      "Enabled": true
+    },
+    {
+      "Name": "Locomotor",
+      "Enabled": true
+    },
+    {
+      "Name": "CurveExpression",
+      "Enabled": true
+    },
+    {
+      "Name": "GameplayInteractions",
+      "Enabled": true
+    },
+    {
+      "Name": "AIAssistant",
+      "Enabled": true
+    },
+    {
+      "Name": "GameplayAbilities",
+      "Enabled": true
+    },
+    {
+      "Name": "MetaHumanCalibrationDiagnostics",
+      "Enabled": false,
+      "SupportedTargetPlatforms": [
+        "Win64"
+      ]
+    },
+    {
+      "Name": "MetaHuman",
+      "Enabled": false,
+      "SupportedTargetPlatforms": [
+        "Win64",
+        "Linux"
+      ]
+    },
+    {
+      "Name": "MetaHumanCoreTech",
+      "Enabled": false,
+      "SupportedTargetPlatforms": [
+        "Win64",
+        "Linux"
+      ]
+    },
+    {
+      "Name": "CodeEditor",
+      "Enabled": true
+    },
+    {
+      "Name": "CodeView",
+      "Enabled": true
+    },
+    {
+      "Name": "CLOLiveSync",
+      "Enabled": false
+    },
+    {
+      "Name": "CommonUI",
+      "Enabled": true
+    },
+    {
+      "Name": "UIFramework",
+      "Enabled": true
+    },
+    {
+      "Name": "Workspace",
+      "Enabled": true
+    },
+    {
+      "Name": "ChaosClothEditor",
+      "Enabled": true
+    },
+    {
+      "Name": "ChaosClothGenerator",
+      "Enabled": true
+    },
+    {
+      "Name": "AnimationBudgetAllocator",
+      "Enabled": true
+    },
+    {
+      "Name": "MoverIntegrations",
+      "Enabled": true
+    },
+    {
+      "Name": "MetaHumanCharacter",
+      "Enabled": true
+    },
+    {
+      "Name": "CelestialVault",
+      "Enabled": true
+    },
+    {
+      "Name": "MetaHumanCharacterUAF",
+      "Enabled": true
+    },
+    {
+      "Name": "MoverAnimNext",
+      "Enabled": true
+    },
+    {
+      "Name": "RigLogicUAF",
+      "Enabled": true
+    },
+    {
+      "Name": "UAFAnimGraph",
+      "Enabled": true
+    },
+    {
+      "Name": "UAFChooser",
+      "Enabled": true
+    },
+    {
+      "Name": "UAFControlRig",
+      "Enabled": true
+    },
+    {
+      "Name": "UAFMirroring",
+      "Enabled": true
+    },
+    {
+      "Name": "UAFPoseSearch",
+      "Enabled": true
+    },
+    {
+      "Name": "UAFStateTree",
+      "Enabled": true
+    },
+    {
+      "Name": "UAFTests",
+      "Enabled": true
+    },
+    {
+      "Name": "UAFWarping",
+      "Enabled": true
+    },
+    {
+      "Name": "UAF",
+      "Enabled": true
+    },
+    {
+      "Name": "AnimToTexture",
+      "Enabled": true
+    },
+    {
+      "Name": "PythonAutomationTest",
+      "Enabled": true
+    },
+    {
+      "Name": "VisualStudioTools",
+      "Enabled": true,
+      "SupportedTargetPlatforms": [
+        "Win64"
+      ]
+    }
+  ],
+  "TargetPlatforms": [],
+  "AdditionalRootDirectories": [],
+  "AdditionalPluginDirectories": [],
+  "EpicSampleNameHash": "1673045636"
+}
